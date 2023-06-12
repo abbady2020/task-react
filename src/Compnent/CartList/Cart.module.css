@@ -1,0 +1,113 @@
+.nana{
+  border:1px solid gray;
+  width:400px;
+  margin: 20px;
+  padding:20px;
+  position: relative;
+}
+
+.naw{
+  position:absolute;
+  top:-10px;
+  right:-10px;
+  background-color: red;
+  width:15px;
+  height:15px;
+  border-radius:50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+.nas{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.show{
+  display: none;
+}
+
+.hidn{
+  display:block;
+}
+
+
+.nams{
+  display: flex;
+  justify-content: center;
+  margin:10px;
+}
+
+

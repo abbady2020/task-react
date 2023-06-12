@@ -1,0 +1,26 @@
+.baf{
+  display: flex;
+  justify-content: center;
+  margin:17px
+}
+
+.baf label{
+  color:red;
+  font-size:bold;
+}
+
+.baf input{
+  width:140px;
+  font-size:bold;
+  color:black;
+}
+
+
+
+
+
+
+
+
+
+
